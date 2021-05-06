@@ -1,2 +1,2 @@
 # CSS
-glowing annimetion test
+glowing annimetion text
